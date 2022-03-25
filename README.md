@@ -1,0 +1,3 @@
+
+## Reference
+- [CKIPTagger與JIEBA比較](https://medium.com/%E4%B8%AD%E6%96%87-nlp-%E8%99%95%E7%90%86/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E6%96%B7%E8%A9%9E%E4%BD%BF%E7%94%A8%E8%80%85%E5%AD%97%E5%85%B8%E5%BC%95%E7%94%A8%E6%AF%94%E8%BC%83-jieba-%E8%88%87ckiptagger-%E4%B8%80-e5c858973797)
